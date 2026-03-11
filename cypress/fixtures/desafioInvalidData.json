@@ -1,0 +1,7 @@
+{
+    "userEmailInvalid": "asdasd",
+    "userPasswordInvalid": 12345,
+    "nameErrorMessage": "O campo nome deve ser prenchido",
+    "emailErrorMessage": "O campo e-mail deve ser prenchido corretamente",
+    "passwordErrorMessage": "O campo senha deve ter pelo menos 6 dígitos"
+}
