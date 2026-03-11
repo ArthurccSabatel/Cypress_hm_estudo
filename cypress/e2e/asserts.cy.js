@@ -1,7 +1,8 @@
 describe('Asserts', () => {
     
     beforeEach(() => {
-        cy.visit('/login')
+        cy.accessLoginPage()
+
     })
     it('Verificar se está visível',() => {
 
