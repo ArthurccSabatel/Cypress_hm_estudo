@@ -1,5 +1,5 @@
 {
-    "userNameValid": "Client Test",
-    "userEmailValid": "client@example.com",
-    "userPasswordValid": 123456
+    "name": "Client Test",
+    "email": "client@example.com",
+    "password": 123456
 }
